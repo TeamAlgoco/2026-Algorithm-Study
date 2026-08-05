@@ -43,7 +43,7 @@
 5. **프로그래머스** 칸에 아래 내용을 입력하고 `저장`
 
 ```
-    Programmers/${level}/${id}. ${title}
+Programmers/${level}/${id}. ${title}
 ```
  
 - **전원 동일하게 입력함. 본인 이름을 넣지 않음.**
