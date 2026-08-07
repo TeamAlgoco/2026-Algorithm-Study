@@ -274,18 +274,18 @@ Programmers/
 
 ---
 
-| 주차 | 기간 | 폴더명/문제1 | 폴더명/문제2 | 폴더명/문제3 | 폴더명/문제4 | 폴더명/문제5 |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 08/04 ~ 08/07 | [stack_queue/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [dfs_bfs/게입 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [sort/가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [dfs_bfs/타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |  |
-| 2 | 08/10 ~ 08/14 |  |  |  |  |  |
-| 3 | 08/17 ~ 08/21 |  |  |  |  |  |
-| 4 | 08/24 ~ 08/28 |  |  |  |  |  |
-| 5 | 08/31 ~ 09/04 |  |  |  |  |  |
-| 6 | 09/07 ~ 09/11 |  |  |  |  |  |
-| 7 | 09/14 ~ 09/18 |  |  |  |  |  |
-| 8 | 09/21 ~ 09/25 |  |  |  |  |  |
-| 9 | 09/28 ~ 10/02 |  |  |  |  |  |
-| 10 | 10/05 ~ 10/09 |  |  |  |  |  |
+| 주차 | 기간 | 폴더명/문제1 | 폴더명/문제2 | 폴더명/문제3 | 폴더명/문제4 | 폴더명/문제5 | 비고 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 08/04 ~ 08/07 | [stack_queue/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [dfs_bfs/게입 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [sort/가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [dfs_bfs/타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |  | 정기세션 8/8(토) 13시 대면 진행 |
+| 2 | 08/10 ~ 08/14 |  |  |  |  |  |  |
+| 3 | 08/17 ~ 08/21 |  |  |  |  |  |  |
+| 4 | 08/24 ~ 08/28 |  |  |  |  |  |  |
+| 5 | 08/31 ~ 09/04 |  |  |  |  |  |  |
+| 6 | 09/07 ~ 09/11 |  |  |  |  |  |  |
+| 7 | 09/14 ~ 09/18 |  |  |  |  |  |  |
+| 8 | 09/21 ~ 09/25 |  |  |  |  |  |  |
+| 9 | 09/28 ~ 10/02 |  |  |  |  |  |  |
+| 10 | 10/05 ~ 10/09 |  |  |  |  |  |  |
 
 > 일정표의 `폴더명`은 문제 선정용 표기.
 > 실제 저장소 폴더는 프로그래머스 분류를 따라 한글로 자동 생성됨.
