@@ -277,7 +277,7 @@ Programmers/
 | 주차 | 기간 | 폴더명/문제1 | 폴더명/문제2 | 폴더명/문제3 | 폴더명/문제4 | 폴더명/문제5 | 비고 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 08/04 ~ 08/07 | [stack_queue/기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [dfs_bfs/게입 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [sort/가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [dfs_bfs/타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |  | 정기세션 8/8(토) 13시 대면 진행 |
-| 2 | 08/10 ~ 08/14 |  |  |  |  |  |  |
+| 2 | 08/10 ~ 08/14 |[stack_queue/올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | [hash/전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)      | [sort/H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    | [heap/더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)     | [stack_queue/다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)| 정기세션 8/15(토) 13시 대면 진행|
 | 3 | 08/17 ~ 08/21 |  |  |  |  |  |  |
 | 4 | 08/24 ~ 08/28 |  |  |  |  |  |  |
 | 5 | 08/31 ~ 09/04 |  |  |  |  |  |  |
